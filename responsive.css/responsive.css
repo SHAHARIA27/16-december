@@ -1,0 +1,453 @@
+@media only screen and (min-width:200px) and (max-width:575px) {
+
+    .header-top h1 {
+        font-size: 16px;
+
+    }
+
+    .header-top {
+        background: green;
+        position: relative;
+
+    }
+
+    .img img {
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        position: absolute;
+        top: 5px;
+        bottom: 0;
+        left: 0px;
+    }
+
+    .menu-area ul li a {
+        color: green;
+        transition: 0.5s;
+        font-size: 13px;
+        padding: 5px 3px;
+
+
+    }
+
+    .menu-area button {
+        font-size: 13px;
+    }
+
+    .section-0,
+    .backgroun h2 {
+        font-size: 16px;
+    }
+
+    .section-0,
+    .backgroun p {
+        font-size: 13px;
+    }
+
+    .backgroun ol li {
+        font-size: 13px;
+    }
+
+    .backgroun img {
+        width: 100%;
+    }
+
+    .bangabondhu {
+        margin-top: 8px;
+    }
+
+    .bangabondhu h6 {
+        font-size: 14px;
+    }
+
+    .bangabondhu img {
+        width: 90%;
+        margin-bottom: 10px;
+    }
+
+    .bangabondhu h5 {
+        font-size: 25px;
+    }
+
+    .bangabondhu p {
+        font-size: 12px;
+    }
+
+    .freedom-fighters h2 {
+        font-size: 20px;
+    }
+
+    .freedom-fighters p {
+        font-size: 12px;
+    }
+
+
+    .section-1 h2 {
+        font-size: 18px;
+    }
+
+    .section-1 p {
+        font-size: 12px;
+    }
+
+    .section-2 tr th {
+        font-size: 13px;
+    }
+
+    .section-2 td p {
+        font-size: 12px;
+    }
+
+    .section-2 td {
+        font-size: 12px;
+    }
+
+    .section-2 td ol li {
+        font-size: 12px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width:575.5px) and (max-width:767px) {
+
+    .header-top h1 {
+        font-size: 20px;
+
+    }
+
+    .header-top {
+        background: green;
+        position: relative;
+
+    }
+
+    .img img {
+        height: 55px;
+        width: 55px;
+        border-radius: 50%;
+        position: absolute;
+        top: 5px;
+        bottom: 0;
+        left: 8px;
+    }
+
+    .menu-area ul li a {
+        font-size: 15px;
+        padding: 6px;
+    }
+
+    .menu-area button {
+        font-size: 18px;
+    }
+
+    .section-0,
+    .backgroun h2 {
+        font-size: 20px;
+    }
+
+    .section-0,
+    .backgroun p {
+        font-size: 13px;
+    }
+
+    .backgroun ol li {
+        font-size: 15px;
+    }
+
+    .backgroun img {
+        width: 100%;
+    }
+
+    .bangabondhu {
+        margin-top: 5px;
+    }
+
+    .bangabondhu h6 {
+        font-size: 16px;
+    }
+
+    .bangabondhu img {
+        width: 95%;
+        margin-bottom: 10px;
+    }
+
+    .bangabondhu h5 {
+        font-size: 28px;
+    }
+
+    .bangabondhu p {
+        font-size: 14px;
+    }
+
+    .freedom-fighters h2 {
+        font-size: 24px;
+    }
+
+    .freedom-fighters p {
+        font-size: 14px;
+    }
+
+    .section-1 h2 {
+        font-size: 22px;
+    }
+
+    .section-1 p {
+        font-size: 14px;
+    }
+
+    .section-2 tr th {
+        font-size: 17px;
+    }
+
+    .section-2 td p {
+        font-size: 14px;
+    }
+
+    .section-2 td {
+        font-size: 14px;
+    }
+
+    .section-2 td ol li {
+        font-size: 14px;
+    }
+
+}
+
+
+
+
+
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+
+    .header-top h1 {
+        font-size: 28px;
+
+    }
+
+    .header-top {
+        background: green;
+        position: relative;
+
+    }
+
+    .img img {
+        height: 65px;
+        width: 65px;
+        border-radius: 50%;
+        position: absolute;
+        top: 5px;
+        bottom: 0;
+        left: 8px;
+    }
+
+    .menu-area ul li a {
+        font-size: 12px;
+        padding: 2px;
+    }
+
+    .menu-area button {
+        font-size: 14px;
+    }
+
+    .section-0 h2 {
+        font-size: 27px;
+    }
+
+    .section-0 p {
+        font-size: 15px;
+    }
+
+    .backgroun h2 {
+        font-size: 24px;
+    }
+
+    .backgroun img {
+        width: 100%;
+    }
+
+    .backgroun p {
+        font-size: 13px;
+    }
+
+    .backgroun ol li {
+        font-size: 12px;
+    }
+
+
+    .bangabondhu h6 {
+        font-size: 15px;
+    }
+
+    .bangabondhu img {
+        width: 100%;
+        height: 85%;
+
+    }
+
+    .bangabondhu h5 {
+        font-size: 30px;
+    }
+
+    .bangabondhu p {
+        font-size: 14px;
+    }
+
+
+    .freedom-fighters h2 {
+        font-size: 30px;
+    }
+
+    .freedom-fighters p {
+        font-size: 13px;
+    }
+  .section-1 h2 {
+        font-size: 33px;
+    }
+
+    .section-1 p {
+        font-size: 14px;
+    }
+
+    .section-2 tr th {
+        font-size: 18px;
+    }
+
+    .section-2 td p {
+        font-size: 15px;
+    }
+
+    .section-2 td {
+        font-size: 15px;
+    }
+
+    .section-2 td ol li {
+        font-size: 15px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    
+     .header-top h1 {
+        font-size: 34px;
+
+    }
+
+    .header-top {
+        background: green;
+        position: relative;
+
+    }
+
+    .img img {
+        height: 75px;
+        width: 75px;
+        border-radius: 50%;
+        position: absolute;
+        top: 5px;
+        bottom: 0;
+        left: 8px;
+    }
+
+    .menu-area ul li a {
+        font-size: 15px;
+        padding: 2px;
+    }
+
+    .menu-area button {
+        font-size: 14px;
+    }
+
+    .section-0 h2 {
+        font-size: 32px;
+    }
+
+    .section-0 p {
+        font-size: 15px;
+    }
+
+    .backgroun h2 {
+        font-size: 28px;
+    }
+
+    .backgroun img {
+        width: 100%;
+    }
+
+    .backgroun p {
+        font-size: 14px;
+    }
+
+    .backgroun ol li {
+        font-size: 13px;
+    }
+
+
+    .bangabondhu h6 {
+        font-size: 17px;
+    }
+
+    .bangabondhu img {
+        width: 100%;
+        height: 95%;
+
+    }
+
+    .bangabondhu h5 {
+        font-size: 32px;
+    }
+
+    .bangabondhu p {
+        font-size: 14px;
+    }
+
+
+    .freedom-fighters h2 {
+        font-size: 33px;
+    }
+
+    .freedom-fighters p {
+        font-size: 14px;
+    }
+  .section-1 h2 {
+        font-size: 35px;
+    }
+
+    .section-1 p {
+        font-size: 14px;
+    }
+
+    .section-2 tr th {
+        font-size: 19px;
+    }
+
+    .section-2 td p {
+        font-size: 15px;
+    }
+
+    .section-2 td {
+        font-size: 15px;
+    }
+
+    .section-2 td ol li {
+        font-size: 15px;
+    }
+}
